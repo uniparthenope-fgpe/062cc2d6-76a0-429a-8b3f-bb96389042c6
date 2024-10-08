@@ -1,1 +1,0 @@
-Complete the implementation of a simple calculator that can perform addition, subtraction, multiplication, and division. The user should be able to input two numbers and select the operation.

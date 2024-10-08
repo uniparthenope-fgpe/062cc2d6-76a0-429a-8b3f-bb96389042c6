@@ -1,0 +1,1 @@
+You are given a piece of code that is supposed to calculate the factorial of a number, but it contains bugs. Identify and fix the errors in the code.
